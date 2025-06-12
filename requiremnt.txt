@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+pdfplumber
+chardet
+PyMuPDF
+Pillow
+qdrant-client  # or faiss-cpu / chromadb
+openai
+streamlit
+langchain
+sentence-transformers
+tqdm
