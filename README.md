@@ -1,6 +1,3 @@
-# Manjima-M-wasserstoff-AiInternTask
-
-
 What it does
 - Lets users upload many kinds of documents — PDFs, scanned files, images, or plain text
 - Extracts text using OCR if needed (for scanned files or images)
